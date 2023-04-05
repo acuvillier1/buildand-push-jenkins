@@ -2,4 +2,4 @@ version: '3.8'
 
 services:
   web0:
-   image: nginx
+   image: docker pull registry.ludovic.tech/anthony/app:3.8
